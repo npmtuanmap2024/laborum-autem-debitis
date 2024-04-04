@@ -1,0 +1,22 @@
+{
+  "name": "@elliottcable/bs-cmdliner",
+  "version": "1.0.2",
+  "sources": [
+    {
+       "dir": "src"
+    }
+  ],
+  "package-specs": {
+    "module": "commonjs",
+    "in-source": true
+  },
+  "suffix": ".bs.js",
+  "bsc-flags": [
+    "-bs-super-errors",
+    "-bs-no-version-header"
+  ],
+  "warnings": {
+    "number" : "-32-35-27-44-6"
+  },
+  "refmt": 3
+}
